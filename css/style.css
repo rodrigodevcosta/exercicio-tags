@@ -1,0 +1,90 @@
+body {
+  background: #164863;
+  font-family: Arial;
+}
+
+h1 {
+  color: #ddf2fd;
+  text-align: center;
+  margin: 15px;
+  line-height: 2;
+}
+
+h2 {
+  color: #164863;
+  margin: 0px;
+  line-height: 2;
+}
+
+p {
+  color: #ddf2fd;
+  margin: 0px;
+  line-height: 2;
+}
+
+.estrutura {
+  background: #427d9d;
+  border-radius: 4px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+.evento-topo {
+  background: #9bbec8;
+  border-radius: 4px;
+  padding: 30px;
+}
+
+.evento {
+  background: #9bbec8;
+  border-radius: 4px;
+  padding: 30px;
+  margin-top: 15px;
+}
+
+.botao {
+  display: inline-block;
+  background: #427d9d;
+  color: #f0f0f0;
+  text-decoration: none;
+  margin-top: 15px;
+  padding: 3px 6px;
+  border-radius: 4px;
+  font-size: small;
+}
+
+.botao:hover {
+  display: inline-block;
+  background: #164863;
+  color: #f0f0f0;
+  text-decoration: none;
+  margin-top: 10px;
+  padding: 6px 12px;
+  border-radius: 4px;
+}
+
+.negrito {
+  color: #aaa;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.rodape {
+  color: #ddf2fd;
+  margin: 30px;
+  line-height: 2;
+  text-align: center;
+}
+.assunto-html > h2 {
+  color: #ddf2fd;
+  text-align: center;
+  font-weight: bold;
+}
+.assunto-css > h2 {
+  margin-top: 15px;
+  color: #ddf2fd;
+  text-align: center;
+  font-weight: bold;
+}
